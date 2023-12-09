@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MsYv3Zf1kYDLxWyu0uyC5CX01O1b5G2/bgDawv5L5M6NtMVQ3YJmPNTOTq18bf7kxwQ06OiVI0PH1LTWBsNrhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lab_services_student\\Desktop\\POE_PROG2A\\POE\\POE\\POE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\lab_services_student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
